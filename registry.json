@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cosmoshub-4",
+    "name": "Cosmos Hub",
+    "ticker": "ATOM"
+  },
+  {
+    "id": "osmosis-1",
+    "name": "Osmosis",
+    "ticker": "OSMO"
+  }
+]
