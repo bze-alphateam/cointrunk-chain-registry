@@ -1,5 +1,10 @@
 [
   {
+    "id": "beezee-1",
+    "name": "BeeZee",
+    "ticker": "BZE"
+  },
+  {
     "id": "cosmoshub-4",
     "name": "Cosmos Hub",
     "ticker": "ATOM"
