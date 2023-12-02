@@ -3,18 +3,21 @@
     "id": "beezee-1",
     "name": "BeeZee",
     "ticker": "BZE",
-    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/beezee/images/bze.png"
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/beezee/images/bze.png",
+    "rest": "https://rest.getbze.com"
   },
   {
     "id": "cosmoshub-4",
     "name": "Cosmos Hub",
     "ticker": "ATOM",
-    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png"
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png",
+    "rest" :"https://api.cosmos.nodestake.top"
   },
   {
     "id": "osmosis-1",
     "name": "Osmosis",
     "ticker": "OSMO",
-    "logo": "https://github.com/cosmos/chain-registry/blob/master/osmosis/images/osmo.png?raw=true"
+    "logo": "https://github.com/cosmos/chain-registry/blob/master/osmosis/images/osmo.png?raw=true",
+    "rest": "https://api-osmosis-ia.cosmosia.notional.ventures"
   }
 ]
