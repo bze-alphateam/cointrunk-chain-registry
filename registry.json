@@ -21,6 +21,6 @@
     "ticker": "OSMO",
     "logo": "https://github.com/cosmos/chain-registry/blob/master/osmosis/images/osmo.png?raw=true",
     "rest": "https://api-osmosis-ia.cosmosia.notional.ventures",
-    "rpc": "rpc-osmosis.mzonder.com" 
+    "rpc": "rpc.osmosis.zone" 
   }
 ]
