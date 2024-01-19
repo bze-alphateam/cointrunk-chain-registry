@@ -4,8 +4,8 @@
     "name": "BeeZee",
     "ticker": "BZE",
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/beezee/images/bze.png",
-    "rest": "https://rest-bze.svbtech.ro",
-    "rpc": "rpc-bze.svbtech.ro" 
+    "rest": "https://rest.getbze.com",
+    "rpc": "rpc.getbze.com" 
   },
   {
     "id": "cosmoshub-4",
