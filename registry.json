@@ -12,8 +12,8 @@
     "name": "Cosmos Hub",
     "ticker": "ATOM",
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/cosmoshub/images/atom.png",
-    "rest" :"https://cosmos-lcd.quickapi.com",
-    "rpc": "cosmos-rpc.polkachu.com" 
+    "rest" :"https://api-cosmoshub-ia.cosmosia.notional.ventures",
+    "rpc": "rpc-cosmoshub-ia.cosmosia.notional.ventures" 
   },
   {
     "id": "osmosis-1",
@@ -21,7 +21,7 @@
     "ticker": "OSMO",
     "logo": "https://github.com/cosmos/chain-registry/blob/master/osmosis/images/osmo.png?raw=true",
     "rest": "https://api-osmosis-ia.cosmosia.notional.ventures",
-    "rpc": "rpc.osmosis.zone" 
+    "rpc": "rpc-osmosis-ia.cosmosia.notional.ventures" 
   },
   {
     "id": "vidulum-1",
