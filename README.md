@@ -1,9 +1,9 @@
 
-# CoinTrunk.io In stores
-[Google Play Store - Android](https://play.google.com/store/apps/details?id=svbtech.ro)
+## CoinTrunk.io In stores
+[Google Play Store - Android](https://play.google.com/store/apps/details?id=svbtech.ro)  
 Apple App Store - Pending
 
-# CoinTrunk Mobile APP
+## CoinTrunk Mobile APP
 The repo holding references to assets listed in CoinTrunk Mobile App. 
 
 ### List a new blockchain:  
