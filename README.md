@@ -7,8 +7,8 @@ Apple App Store - Pending
 The repo holding references to assets listed in CoinTrunk Mobile App. 
 
 ### List a new blockchain:  
-- make sure your network is present in [Cosmos Chain Registry](https://github.com/cosmos/chain-registry)  
-- create a PR in this repository and add your network details in registry.json  
+- make sure your blockchain is present in [Cosmos Chain Registry](https://github.com/cosmos/chain-registry)  
+- create a PR in this repository and add your blockchain details in registry.json  
 
 We'll review your request and list the requested network as soon a possible.
 
