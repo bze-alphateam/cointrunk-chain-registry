@@ -22,5 +22,13 @@
     "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/osmosis/images/osmo.png",
     "rest": "https://api.osmosis.chaintools.tech",
     "rpc": "rpc.osmosis.chaintools.tech" 
+  },
+  {
+    "id": "celestia",
+    "name": "Celestia",
+    "ticker": "TIA",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.png",
+    "rest": "https://api-celestia.mzonder.com",
+    "rpc": "rpc-celestia.mzonder.com" 
   }
 ]
