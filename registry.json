@@ -24,6 +24,14 @@
     "rpc": "rpc.osmosis.chaintools.tech" 
   },
   {
+    "id": "celestia",
+    "name": "Celestia",
+    "ticker": "TIA",
+    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.png",
+    "rest": "https://api-celestia.mzonder.com",
+    "rpc": "rpc-celestia.mzonder.com" 
+  },
+  {
     "id": "jackal-1",
     "name": "Jackal",
     "ticker": "JKL",
