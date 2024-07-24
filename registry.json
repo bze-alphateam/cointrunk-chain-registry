@@ -8,14 +8,6 @@
     "rpc": "rpc.getbze.com" 
   },
   {
-    "id": "vidulum-1",
-    "name": "Vidulum",
-    "ticker": "VDL",
-    "logo": "https://raw.githubusercontent.com/cosmos/chain-registry/master/vidulum/images/vdl.png",
-    "rest": "https://mainnet-lcd.vidulum.app",
-    "rpc": "mainnet-rpc.vidulum.app" 
-  },
-  {
     "id": "osmosis-1",
     "name": "Osmosis",
     "ticker": "OSMO",
